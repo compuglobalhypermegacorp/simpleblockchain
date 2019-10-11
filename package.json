@@ -1,0 +1,31 @@
+{
+  "name": "nvmi-tiny-blockchain",
+  "version": "1.0.0",
+  "description": "The little blockchain that could.",
+  "main": "main..js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thenvmi intern",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenvmi/mylittleblockchain.git"
+  },
+  "keywords": [
+    "javascript",
+    "blockchain",
+    "proof",
+    "of",
+    "work",
+    "angular"
+  ],
+  "bugs": {
+    "url": "https://github.com/thenvmi/mylittleblockchain/issues"
+  },
+  "homepage": "https://github.com/thenvmi/mylittleblockchain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "performance": "^1.1.1"
+  }
+}
