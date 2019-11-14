@@ -2,6 +2,15 @@
 My little simple blockchain in Javascript with proof of work.  Mr. Whiskers' junior intern's simple blockchain in Javascript with proof of work.
 
 ```
+git clone https://github.com/compuglobalhypermegacorp/simpleblockchain
+cd simpleblockchain
+npm install
+npm main.js
+
+# if you want to change difficulty edit line 69
+# nvmiToken.difficulty = 4;
+# corresponds to leading zeros in the SHA-256 hash
+
 Difficulty: 4
 Mining block 1...
 Block mined: 000071c351069df2402c884c887ceb7f582448e69bc37264046896dfc13e4fa7
