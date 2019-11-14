@@ -1,6 +1,8 @@
 # simpleblockchain
 My little simple blockchain in Javascript with proof of work.  Mr. Whiskers' junior intern's simple blockchain in Javascript with proof of work.
 
+Instructions to install, updated the difficulty, and print the chain below. Enjoy.
+
 ```
 git clone https://github.com/compuglobalhypermegacorp/simpleblockchain
 cd simpleblockchain
